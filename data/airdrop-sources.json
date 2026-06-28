@@ -1,0 +1,171 @@
+[
+  {
+    "id": "starknet-strk",
+    "name": "Starknet",
+    "chain": "Ethereum L2",
+    "token": "STRK",
+    "officialSite": "https://www.starknet.io",
+    "officialTwitter": "https://twitter.com/Starknet",
+    "estimatedValue": "$500-2000",
+    "difficulty": "medium",
+    "discoveryUrls": [
+      "https://www.starknet.io/blog/",
+      "https://www.starknet.io/"
+    ]
+  },
+  {
+    "id": "zksync-era",
+    "name": "zkSync Era",
+    "chain": "Ethereum L2",
+    "token": "ZK",
+    "officialSite": "https://zksync.io",
+    "officialTwitter": "https://twitter.com/zksync",
+    "estimatedValue": "$300-1500",
+    "difficulty": "easy",
+    "discoveryUrls": [
+      "https://zksync.io/",
+      "https://zksync.io/blog"
+    ]
+  },
+  {
+    "id": "layerzero-zro",
+    "name": "LayerZero",
+    "chain": "Multi-chain",
+    "token": "ZRO",
+    "officialSite": "https://layerzero.network",
+    "officialTwitter": "https://twitter.com/LayerZero_Labs",
+    "estimatedValue": "$400-2500",
+    "difficulty": "medium",
+    "discoveryUrls": [
+      "https://layerzero.network/",
+      "https://layerzero.network/blog"
+    ]
+  },
+  {
+    "id": "scroll",
+    "name": "Scroll",
+    "chain": "Ethereum L2",
+    "token": "SCR",
+    "officialSite": "https://scroll.io",
+    "officialTwitter": "https://twitter.com/Scroll_ZKP",
+    "estimatedValue": "$300-1800",
+    "difficulty": "easy",
+    "discoveryUrls": [
+      "https://scroll.io/blog",
+      "https://scroll.io/"
+    ]
+  },
+  {
+    "id": "linea",
+    "name": "Linea",
+    "chain": "Ethereum L2",
+    "token": "LINEA",
+    "officialSite": "https://linea.build",
+    "officialTwitter": "https://twitter.com/LineaBuild",
+    "estimatedValue": "$300-1500",
+    "difficulty": "easy",
+    "discoveryUrls": [
+      "https://linea.build/blog",
+      "https://linea.build/"
+    ]
+  },
+  {
+    "id": "berachain",
+    "name": "Berachain",
+    "chain": "Layer 1",
+    "token": "BERA",
+    "officialSite": "https://www.berachain.com",
+    "officialTwitter": "https://twitter.com/berachain",
+    "estimatedValue": "$500-2500",
+    "difficulty": "medium",
+    "discoveryUrls": [
+      "https://www.berachain.com/blog",
+      "https://www.berachain.com/"
+    ]
+  },
+  {
+    "id": "spiko-io",
+    "name": "Spiko",
+    "chain": "Multi-Chain",
+    "token": "SPIKO",
+    "officialSite": "https://www.spiko.io/",
+    "officialTwitter": "https://twitter.com/Spiko_finance",
+    "estimatedValue": "$200-1500",
+    "difficulty": "medium",
+    "discoveryUrls": [
+      "https://www.spiko.io/",
+      "https://www.spiko.io/blog"
+    ],
+    "autoDiscovered": true,
+    "discoveredAt": "2026-06-26",
+    "tvlAtDiscovery": 1120997176.5467055
+  },
+  {
+    "id": "kinetiq-xyz",
+    "name": "Kinetiq kHYPE",
+    "chain": "Hyperliquid L1",
+    "token": "KINETIQKHY",
+    "officialSite": "https://kinetiq.xyz/stake",
+    "officialTwitter": "https://twitter.com/kinetiq_xyz",
+    "estimatedValue": "$200-1500",
+    "difficulty": "medium",
+    "discoveryUrls": [
+      "https://kinetiq.xyz/stake",
+      "https://kinetiq.xyz/stake/blog"
+    ],
+    "autoDiscovered": true,
+    "discoveredAt": "2026-06-26",
+    "tvlAtDiscovery": 931423738.7196662
+  },
+  {
+    "id": "fxn-xyz",
+    "name": "Function FBTC",
+    "chain": "Bitcoin",
+    "token": "FUNCTIONFB",
+    "officialSite": "https://www.fxn.xyz",
+    "officialTwitter": "https://twitter.com/FunctionBTC",
+    "estimatedValue": "$200-1500",
+    "difficulty": "medium",
+    "discoveryUrls": [
+      "https://www.fxn.xyz",
+      "https://www.fxn.xyz/docs"
+    ],
+    "autoDiscovered": true,
+    "discoveredAt": "2026-06-26",
+    "tvlAtDiscovery": 635336001.6664095
+  },
+  {
+    "id": "superstate-com",
+    "name": "Invesco USTB",
+    "chain": "Multi-Chain",
+    "token": "INVESCOUST",
+    "officialSite": "https://superstate.com/",
+    "officialTwitter": "https://twitter.com/superstatefunds",
+    "estimatedValue": "$200-1500",
+    "difficulty": "medium",
+    "discoveryUrls": [
+      "https://superstate.com/",
+      "https://superstate.com/blog"
+    ],
+    "autoDiscovered": true,
+    "discoveredAt": "2026-06-26",
+    "tvlAtDiscovery": 623748828.613912
+  },
+  {
+    "id": "liquidcollective-io",
+    "name": "Liquid Collective",
+    "chain": "Ethereum",
+    "token": "LIQUIDCOLL",
+    "officialSite": "https://liquidcollective.io",
+    "officialTwitter": "https://twitter.com/liquid_col",
+    "estimatedValue": "$200-1500",
+    "difficulty": "medium",
+    "discoveryUrls": [
+      "https://liquidcollective.io",
+      "https://liquidcollective.io/blog"
+    ],
+    "autoDiscovered": true,
+    "discoveredAt": "2026-06-26",
+    "tvlAtDiscovery": 539294563.3954906
+  }
+]

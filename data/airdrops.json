@@ -1,0 +1,201 @@
+[
+  {
+    "id": "opensea-sea",
+    "name": "OpenSea",
+    "chain": "Ethereum / Multi-chain",
+    "token": "SEA (rumored)",
+    "officialSite": "https://opensea.io",
+    "officialTwitter": "https://twitter.com/opensea",
+    "estimatedValue": "$500-3000",
+    "difficulty": "medium",
+    "status": "active",
+    "endDate": "TBA",
+    "category": "NFT Marketplace",
+    "description": "The largest NFT marketplace has not released a token yet. Active traders may qualify for a future airdrop.",
+    "requirements": [
+      "Buy or sell NFTs on OpenSea",
+      "Maintain trading volume over multiple months",
+      "Use OpenSea Pro for advanced trading",
+      "Hold a diverse NFT portfolio"
+    ],
+    "tutorial": {
+      "steps": [
+        {
+          "title": "Connect Your Wallet",
+          "description": "Visit OpenSea and connect MetaMask or another Web3 wallet. Make sure you have some ETH for gas and purchases.",
+          "links": [{ "text": "OpenSea", "url": "https://opensea.io" }]
+        },
+        {
+          "title": "Make Your First Trade",
+          "description": "Buy an affordable NFT from a collection you like. Even small purchases count toward activity.",
+          "estimatedCost": "$20-100 + gas"
+        },
+        {
+          "title": "Use OpenSea Pro",
+          "description": "OpenSea Pro is their advanced aggregator. Using it may signal deeper engagement.",
+          "links": [{ "text": "OpenSea Pro", "url": "https://pro.opensea.io" }]
+        },
+        {
+          "title": "Trade Regularly",
+          "description": "Maintain consistent activity over time. List, buy, and sell across different collections.",
+          "tips": "Genuine trading activity is more valuable than one-time large purchases."
+        }
+      ]
+    },
+    "risks": [
+      "No confirmed airdrop - based on speculation",
+      "NFT prices are volatile - you may lose money on trades",
+      "Gas fees on Ethereum can be high",
+      "Marketplace fees apply to each trade"
+    ],
+    "lastUpdated": "2026-06-26"
+  },
+  {
+    "id": "blur-blast-nft",
+    "name": "Blur",
+    "chain": "Ethereum / Blast",
+    "token": "BLUR (live, more rewards ongoing)",
+    "officialSite": "https://blur.io",
+    "officialTwitter": "https://twitter.com/blur_io",
+    "estimatedValue": "$300-2000",
+    "difficulty": "medium",
+    "status": "active",
+    "endDate": "TBA",
+    "category": "NFT Marketplace",
+    "description": "Blur is a pro NFT marketplace with ongoing seasonal reward programs. Trading and bidding earn points toward token rewards.",
+    "requirements": [
+      "Trade NFTs on Blur",
+      "Place bids on collections (earns points)",
+      "Provide liquidity through bidding pools",
+      "Maintain loyalty by trading exclusively on Blur"
+    ],
+    "tutorial": {
+      "steps": [
+        {
+          "title": "Connect to Blur",
+          "description": "Visit Blur.io and connect your wallet. Blur is designed for professional NFT traders.",
+          "links": [{ "text": "Blur", "url": "https://blur.io" }]
+        },
+        {
+          "title": "Place Bids",
+          "description": "Bidding on collections earns the most points. Place competitive bids on blue-chip collections.",
+          "tips": "Bidding loyalty (only bidding on Blur) maximizes points."
+        },
+        {
+          "title": "Trade Actively",
+          "description": "Buy and sell NFTs. Trading volume contributes to your reward tier.",
+          "estimatedCost": "Varies by NFT prices"
+        },
+        {
+          "title": "Track Your Points",
+          "description": "Check your points and reward tier in the Blur dashboard regularly.",
+          "links": [{ "text": "Blur Rewards", "url": "https://blur.io/rewards" }]
+        }
+      ]
+    },
+    "risks": [
+      "Bidding locks up your ETH",
+      "NFT floor prices can drop suddenly",
+      "Points system rules change between seasons",
+      "High competition for top reward tiers"
+    ],
+    "lastUpdated": "2026-06-26"
+  },
+  {
+    "id": "magic-eden-me",
+    "name": "Magic Eden",
+    "chain": "Solana / Multi-chain",
+    "token": "ME (live, ongoing rewards)",
+    "officialSite": "https://magiceden.io",
+    "officialTwitter": "https://twitter.com/MagicEden",
+    "estimatedValue": "$200-1500",
+    "difficulty": "easy",
+    "status": "active",
+    "endDate": "TBA",
+    "category": "NFT Marketplace",
+    "description": "Multi-chain NFT marketplace popular on Solana. Diamond rewards program gives points for trading activity.",
+    "requirements": [
+      "Trade NFTs on Magic Eden",
+      "Earn Diamonds through activity",
+      "Trade across multiple chains (Solana, Ethereum, Bitcoin)",
+      "Complete daily and weekly quests"
+    ],
+    "tutorial": {
+      "steps": [
+        {
+          "title": "Set Up a Solana Wallet",
+          "description": "Install Phantom or another Solana wallet. Magic Eden is strongest on Solana with low fees.",
+          "links": [{ "text": "Phantom Wallet", "url": "https://phantom.app" }]
+        },
+        {
+          "title": "Connect to Magic Eden",
+          "description": "Visit Magic Eden and connect your wallet.",
+          "links": [{ "text": "Magic Eden", "url": "https://magiceden.io" }]
+        },
+        {
+          "title": "Earn Diamonds",
+          "description": "Trade NFTs to earn Diamonds. Low Solana fees make frequent trading affordable.",
+          "estimatedCost": "$10-50 (Solana fees are minimal)"
+        },
+        {
+          "title": "Complete Quests",
+          "description": "Check for daily and weekly quests that give bonus Diamonds.",
+          "tips": "Solana's low fees make Magic Eden ideal for high-frequency activity."
+        }
+      ]
+    },
+    "risks": [
+      "NFT values are speculative",
+      "Reward program terms may change",
+      "Cross-chain trading adds complexity",
+      "Solana network occasionally experiences congestion"
+    ],
+    "lastUpdated": "2026-06-26"
+  },
+  {
+    "id": "tensor-trade",
+    "name": "Tensor",
+    "chain": "Solana",
+    "token": "TNSR (live, ongoing)",
+    "officialSite": "https://www.tensor.trade",
+    "officialTwitter": "https://twitter.com/tensor_hq",
+    "estimatedValue": "$200-1200",
+    "difficulty": "medium",
+    "status": "active",
+    "endDate": "TBA",
+    "category": "NFT Marketplace",
+    "description": "Pro NFT marketplace on Solana. TNSR token holders and active traders earn ongoing rewards.",
+    "requirements": [
+      "Trade NFTs on Tensor",
+      "Earn points through trading volume",
+      "Provide liquidity to NFT pools",
+      "Hold TNSR for governance"
+    ],
+    "tutorial": {
+      "steps": [
+        {
+          "title": "Connect a Solana Wallet",
+          "description": "Use Phantom or Solflare wallet to connect to Tensor.",
+          "links": [{ "text": "Tensor", "url": "https://www.tensor.trade" }]
+        },
+        {
+          "title": "Trade NFTs",
+          "description": "Tensor is built for speed and pro traders. Buy and sell to accumulate points.",
+          "estimatedCost": "$10-50 (low Solana fees)"
+        },
+        {
+          "title": "Provide Pool Liquidity",
+          "description": "Advanced users can provide liquidity to NFT AMM pools for extra rewards.",
+          "tips": "Liquidity provision carries impermanent loss risk for NFTs."
+        }
+      ]
+    },
+    "risks": [
+      "NFT AMM liquidity can suffer losses",
+      "Solana NFT market is volatile",
+      "Reward distribution is not guaranteed",
+      "Requires understanding of NFT pricing"
+    ],
+    "lastUpdated": "2026-06-26"
+  }
+]
