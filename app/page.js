@@ -8,14 +8,15 @@ export default function Home() {
     "@context": "https://schema.org",
     "@type": "ItemList",
     "name": "Active NFT Airdrops",
-    "description": "Comprehensive list of active NFT marketplace and Web3 gaming airdrops with step-by-step guides",
+    "description": "Comprehensive list of active NFT airdrops and rewards with step-by-step guides",
     "numberOfItems": airdrops.length,
     "itemListElement": airdrops.slice(0, 20).map((airdrop, index) => ({
       "@type": "ListItem",
       "position": index + 1,
       "item": {
         "@type": "Article",
-        "name": `${airdrop.name} Airdrop`,
+        "name": `${airdrop.name} NFT Airdrop`,
+        "url": `https://nft-airdrop-hunter.vercel.app/airdrop/${airdrop.id}`,
         "description": airdrop.description,
         "datePublished": airdrop.lastUpdated
       }
@@ -39,6 +40,7 @@ export default function Home() {
               <Link href="/calendar" className="hover:text-yellow-300">日历</Link>
               <Link href="/blog" className="hover:text-yellow-300">教程</Link>
               <Link href="/tools" className="hover:text-yellow-300">工具</Link>
+              <Link href="/exchanges" className="hover:text-yellow-300">交易所</Link>
             </nav>
           </div>
         </div>
@@ -48,11 +50,11 @@ export default function Home() {
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="text-center mb-12">
           <h2 className="text-5xl font-extrabold mb-4">
-            Don't Miss Free NFT Drops 🖼️
+            Free NFT Airdrops 🖼️
           </h2>
           <p className="text-xl text-white/80 max-w-2xl mx-auto">
-            Track NFT marketplace and Web3 gaming airdrops with official links, detailed tutorials, and step-by-step task guides.
-            Updated regularly.
+            Track active NFT airdrops and marketplace rewards with official links, detailed tutorials, and step-by-step guides.
+            Updated daily.
           </p>
         </div>
 

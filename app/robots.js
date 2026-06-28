@@ -5,6 +5,6 @@ export default function robots() {
       allow: '/',
       disallow: ['/api/', '/_next/'],
     },
-    sitemap: 'https://airdrop-hunter-sooty.vercel.app/sitemap.xml',
+    sitemap: 'https://nft-airdrop-hunter.vercel.app/sitemap.xml',
   };
 }

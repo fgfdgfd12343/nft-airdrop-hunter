@@ -10,6 +10,7 @@ export default function sitemap() {
     { route: '/calendar', priority: 0.9, changeFrequency: 'daily' },
     { route: '/blog', priority: 0.8, changeFrequency: 'weekly' },
     { route: '/tools', priority: 0.7, changeFrequency: 'weekly' },
+    { route: '/exchanges', priority: 0.7, changeFrequency: 'weekly' },
     { route: '/about', priority: 0.5, changeFrequency: 'monthly' },
     { route: '/contact', priority: 0.5, changeFrequency: 'monthly' },
     { route: '/privacy', priority: 0.3, changeFrequency: 'monthly' },
