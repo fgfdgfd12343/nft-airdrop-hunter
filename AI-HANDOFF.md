@@ -4,10 +4,10 @@
 ---
 
 ## 📊 当前项目状态
-**项目**: Airdrop Hunter - 加密货币空投聚合网站
+**项目**: NFT Airdrop Hunter - NFT空投聚合网站
 **技术栈**: Next.js 14, React 18, Tailwind CSS
-**部署**: 已上线 https://airdrop-hunter-sooty.vercel.app/
-**运行状态**: 功能完整，22 个路由，每日自动更新
+**部署**: 已上线 https://nft-airdrop-hunter.vercel.app/
+**运行状态**: 功能完整，4个NFT项目，全套页面
 
 ### 核心功能模块
 - ✅ **首页** (app/page.js) - 空投列表 + 导航（首页/日历/教程/工具/交易所）
@@ -24,6 +24,27 @@
 ---
 
 ## 🔄 最近改动记录
+### [2026-06-29] Claude（NFT 空投网站首次部署上线）
+- **✅ 完成 NFT-Airdrop-Hunter 部署**: 
+  - GitHub: https://github.com/fgfdgfd12343/nft-airdrop-hunter
+  - Vercel: https://nft-airdrop-hunter.vercel.app/
+  - 状态: ✅ 已上线，构建成功，Vercel 仪表板显示"准备好了"
+- **项目内容**: 
+  - 4个 NFT 平台项目（OpenSea, Blur, Magic Eden, Tensor）
+  - 完整功能页面：首页、详情页、日历、工具、博客(5篇)、合规页
+  - 复用 airdrop-hunter 架构，Next.js 14 + React 18 + Tailwind CSS
+- **部署流程**: 
+  - 初始化 git 仓库 → GitHub 推送（SSH方式，秒通）
+  - Vercel 导入 GitHub 仓库 → 自动识别 Next.js → 一键部署
+- **配置继承**: 
+  - GitHub Actions 每日自动刷新（.github/workflows/refresh-site.yml）
+  - SSH 推送配置（core.sshCommand 已设置）
+  - SEO 基础设施（sitemap/robots/meta/结构化数据）
+- **待优化**:
+  - 更新 AI-HANDOFF.md 项目描述（从加密空投改为NFT空投）
+  - 验证 sitemap 包含所有页面
+  - 配置 Google Search Console
+
 ### [2026-06-28] Claude（根治 git push 超时 + 恢复经典项目 + SEO完善 + 30项目上线）
 - **✅ 彻底解决 git push 超时**: 切换到 SSH（通过443端口绕过防火墙）
   - 问题根因: HTTPS 代理 socks5 上传不稳定，多次尝试 `--no-thin`、http proxy、增大buffer 均失败
