@@ -20,7 +20,10 @@
           "title": "Check Your Eligibility",
           "description": "If you own Pudgy Penguins or Lil Pudgys NFTs, you're likely eligible. Check the official announcement for snapshot dates and claim windows.",
           "links": [
-            {"text": "Official Site", "url": "https://www.pudgypenguins.com"}
+            {
+              "text": "Official Site",
+              "url": "https://www.pudgypenguins.com"
+            }
           ]
         },
         {
@@ -30,7 +33,11 @@
         }
       ]
     },
-    "risks": ["Token price volatility", "Claim period may be limited", "Scam claim sites exist"],
+    "risks": [
+      "Token price volatility",
+      "Claim period may be limited",
+      "Scam claim sites exist"
+    ],
     "officialSite": "https://www.pudgypenguins.com",
     "officialTwitter": "https://twitter.com/pudgypenguins",
     "lastUpdated": "2026-06-28"
@@ -56,7 +63,10 @@
           "title": "Connect Wallet to Blur",
           "description": "Visit Blur.io and connect your MetaMask or other Web3 wallet.",
           "links": [
-            {"text": "Blur.io", "url": "https://blur.io"}
+            {
+              "text": "Blur.io",
+              "url": "https://blur.io"
+            }
           ]
         },
         {
@@ -66,7 +76,11 @@
         }
       ]
     },
-    "risks": ["NFT market volatility", "Gas fees can be high", "Points-to-token rate varies"],
+    "risks": [
+      "NFT market volatility",
+      "Gas fees can be high",
+      "Points-to-token rate varies"
+    ],
     "officialSite": "https://blur.io",
     "officialTwitter": "https://twitter.com/blur_io",
     "lastUpdated": "2026-06-28"
@@ -92,7 +106,10 @@
           "title": "Create Magic Eden Account",
           "description": "Sign up at Magic Eden and connect your wallet (supports Solana, Ethereum, Polygon, Bitcoin Ordinals).",
           "links": [
-            {"text": "Magic Eden", "url": "https://magiceden.io"}
+            {
+              "text": "Magic Eden",
+              "url": "https://magiceden.io"
+            }
           ]
         },
         {
@@ -102,9 +119,1000 @@
         }
       ]
     },
-    "risks": ["Token launch date uncertain", "Diamond-to-token conversion rate unknown", "Market volatility"],
+    "risks": [
+      "Token launch date uncertain",
+      "Diamond-to-token conversion rate unknown",
+      "Market volatility"
+    ],
     "officialSite": "https://magiceden.io",
     "officialTwitter": "https://twitter.com/MagicEden",
     "lastUpdated": "2026-06-28"
+  },
+  {
+    "id": "opensea-pro",
+    "name": "OpenSea Pro",
+    "chain": "Ethereum / Multi-chain",
+    "status": "active",
+    "estimatedValue": "$500-2000",
+    "description": "OpenSea Pro rewards program for professional NFT traders with reduced fees and exclusive features.",
+    "requirements": [
+      "Trade volume > $10,000 on OpenSea",
+      "Use OpenSea Pro interface",
+      "Connect wallet and complete KYC"
+    ],
+    "tutorial": {
+      "steps": [
+        {
+          "title": "Register for OpenSea Pro",
+          "description": "Visit OpenSea Pro and connect your wallet. Complete the onboarding process.",
+          "links": [
+            {
+              "text": "OpenSea Pro",
+              "url": "https://pro.opensea.io/"
+            }
+          ]
+        },
+        {
+          "title": "Increase Trading Volume",
+          "description": "Trade NFTs to reach $10,000+ volume. Focus on liquid collections like BAYC, Azuki, Pudgy Penguins.",
+          "tips": "Use limit orders to save on gas fees"
+        },
+        {
+          "title": "Engage with Pro Features",
+          "description": "Use advanced trading tools, portfolio analytics, and batch listings regularly.",
+          "estimatedCost": "Gas fees: ~$50-200"
+        }
+      ]
+    },
+    "risks": [
+      "No official airdrop confirmed yet",
+      "High trading volume requirement",
+      "Platform fee risk"
+    ],
+    "lastUpdated": "2026-06-29",
+    "token": "TBA",
+    "difficulty": "medium",
+    "endDate": "2027-12-31",
+    "officialSite": "https://pro.opensea.io",
+    "officialTwitter": "https://twitter.com/opensea"
+  },
+  {
+    "id": "tensor",
+    "name": "Tensor",
+    "chain": "Solana",
+    "status": "active",
+    "estimatedValue": "$200-1500",
+    "description": "Solana's leading NFT marketplace and trading platform with advanced analytics and AMM pools.",
+    "requirements": [
+      "Trade NFTs on Tensor",
+      "Provide liquidity to AMM pools",
+      "Hold Solana NFTs"
+    ],
+    "tutorial": {
+      "steps": [
+        {
+          "title": "Connect Solana Wallet",
+          "description": "Visit Tensor and connect Phantom, Solflare, or another Solana wallet.",
+          "links": [
+            {
+              "text": "Tensor",
+              "url": "https://www.tensor.trade/"
+            }
+          ]
+        },
+        {
+          "title": "Trade Popular Collections",
+          "description": "Buy/sell NFTs from top Solana collections: Mad Lads, Tensorians, y00ts.",
+          "estimatedCost": "Gas fees: ~$1-5 per trade"
+        },
+        {
+          "title": "Provide AMM Liquidity",
+          "description": "Deposit SOL into AMM pools to earn trading fees and boost airdrop eligibility.",
+          "tips": "Start with smaller pools to test mechanics"
+        }
+      ]
+    },
+    "risks": [
+      "Solana network downtime risk",
+      "NFT price volatility",
+      "Impermanent loss in AMM"
+    ],
+    "lastUpdated": "2026-06-29",
+    "token": "TNSR",
+    "difficulty": "easy",
+    "endDate": "2027-06-30",
+    "officialSite": "https://www.tensor.trade",
+    "officialTwitter": "https://twitter.com/TensorHQ"
+  },
+  {
+    "id": "blur",
+    "name": "Blur",
+    "chain": "Ethereum / Blast",
+    "status": "active",
+    "estimatedValue": "$300-2000",
+    "description": "NFT marketplace for professional traders with 0% fees, advanced tools, and seasonal airdrops.",
+    "requirements": [
+      "List NFTs on Blur",
+      "Bid on collections",
+      "Hold BLUR tokens for rewards boost"
+    ],
+    "tutorial": {
+      "steps": [
+        {
+          "title": "Connect Wallet to Blur",
+          "description": "Visit Blur.io and connect MetaMask or WalletConnect.",
+          "links": [
+            {
+              "text": "Blur",
+              "url": "https://blur.io/"
+            }
+          ]
+        },
+        {
+          "title": "List Your NFTs",
+          "description": "List 5+ NFTs from blue-chip collections. Keep listings active for loyalty points.",
+          "tips": "Competitive pricing increases bidding activity"
+        },
+        {
+          "title": "Place Collection Bids",
+          "description": "Bid on at least 3 collections. Higher bids and longer duration earn more points.",
+          "estimatedCost": "Opportunity cost of locked ETH"
+        },
+        {
+          "title": "Participate in Blast Integration",
+          "description": "Bridge assets to Blast L2 and trade Blast NFTs for additional rewards.",
+          "links": [
+            {
+              "text": "Blast Bridge",
+              "url": "https://blast.io/bridge"
+            }
+          ]
+        }
+      ]
+    },
+    "risks": [
+      "Points system can change",
+      "High competition among traders",
+      "Gas fees on Ethereum"
+    ],
+    "lastUpdated": "2026-06-29",
+    "token": "BLUR",
+    "difficulty": "medium",
+    "endDate": "2027-12-31",
+    "officialSite": "https://blur.io",
+    "officialTwitter": "https://twitter.com/blur_io"
+  },
+  {
+    "id": "element-market",
+    "name": "Element",
+    "chain": "Ethereum / BNB / Polygon",
+    "status": "active",
+    "estimatedValue": "$100-800",
+    "description": "Multi-chain NFT aggregator with 0% platform fee and batch operations.",
+    "requirements": [
+      "Trade NFTs on Element",
+      "Use multi-chain features",
+      "Provide feedback in community"
+    ],
+    "tutorial": {
+      "steps": [
+        {
+          "title": "Register on Element",
+          "description": "Visit Element Market and connect wallet. Verify email for extra points.",
+          "links": [
+            {
+              "text": "Element",
+              "url": "https://element.market/"
+            }
+          ]
+        },
+        {
+          "title": "Cross-Chain Trading",
+          "description": "Trade NFTs on at least 2 chains: Ethereum, BNB Chain, or Polygon.",
+          "estimatedCost": "Gas varies by chain: $1-50"
+        },
+        {
+          "title": "Use Batch Features",
+          "description": "Test batch buying, batch listing, and bulk transfers to demonstrate power-user behavior.",
+          "tips": "Batch operations save significant gas"
+        }
+      ]
+    },
+    "risks": [
+      "Smaller marketplace with less liquidity",
+      "Multi-chain complexity",
+      "Unconfirmed airdrop"
+    ],
+    "lastUpdated": "2026-06-29",
+    "token": "TBA",
+    "difficulty": "easy",
+    "endDate": "2027-09-30",
+    "officialSite": "https://element.market",
+    "officialTwitter": "https://twitter.com/element_market"
+  },
+  {
+    "id": "looksrare",
+    "name": "LooksRare",
+    "chain": "Ethereum",
+    "status": "watch",
+    "estimatedValue": "$150-1000",
+    "description": "Community-first NFT marketplace with staking rewards and trading incentives.",
+    "requirements": [
+      "Trade NFTs on LooksRare",
+      "Stake LOOKS tokens",
+      "Earn trading rewards"
+    ],
+    "tutorial": {
+      "steps": [
+        {
+          "title": "Connect to LooksRare",
+          "description": "Visit LooksRare and connect your Ethereum wallet.",
+          "links": [
+            {
+              "text": "LooksRare",
+              "url": "https://looksrare.org/"
+            }
+          ]
+        },
+        {
+          "title": "Complete Trades",
+          "description": "Buy or sell NFTs to earn LOOKS tokens as trading rewards.",
+          "estimatedCost": "Gas fees: ~$20-100"
+        },
+        {
+          "title": "Stake LOOKS Tokens",
+          "description": "Stake earned LOOKS in the staking pool to earn additional rewards and increase airdrop weight.",
+          "tips": "Compounding rewards increases returns"
+        }
+      ]
+    },
+    "risks": [
+      "LOOKS token already distributed",
+      "Declining platform volume",
+      "High gas fees"
+    ],
+    "lastUpdated": "2026-06-29",
+    "token": "LOOKS",
+    "difficulty": "easy",
+    "endDate": "TBA",
+    "officialSite": "https://looksrare.org",
+    "officialTwitter": "https://twitter.com/LooksRareNFT"
+  },
+  {
+    "id": "x2y2",
+    "name": "X2Y2",
+    "chain": "Ethereum",
+    "status": "watch",
+    "estimatedValue": "$100-600",
+    "description": "NFT marketplace with 0% platform fee and staking rewards program.",
+    "requirements": [
+      "List and trade NFTs",
+      "Stake X2Y2 tokens",
+      "Refer new users"
+    ],
+    "tutorial": {
+      "steps": [
+        {
+          "title": "Create X2Y2 Account",
+          "description": "Connect wallet to X2Y2 marketplace.",
+          "links": [
+            {
+              "text": "X2Y2",
+              "url": "https://x2y2.io/"
+            }
+          ]
+        },
+        {
+          "title": "Active Trading",
+          "description": "List at least 5 NFTs and complete 3+ trades to qualify for rewards.",
+          "estimatedCost": "Gas: ~$30-80"
+        },
+        {
+          "title": "Stake X2Y2",
+          "description": "Stake your X2Y2 tokens to earn trading fee share and boost eligibility.",
+          "tips": "Longer staking periods = higher APR"
+        }
+      ]
+    },
+    "risks": [
+      "Token already launched",
+      "Lower liquidity than OpenSea",
+      "Uncertain future airdrops"
+    ],
+    "lastUpdated": "2026-06-29",
+    "token": "X2Y2",
+    "difficulty": "easy",
+    "endDate": "TBA",
+    "officialSite": "https://x2y2.io",
+    "officialTwitter": "https://twitter.com/the_x2y2"
+  },
+  {
+    "id": "zora",
+    "name": "Zora",
+    "chain": "Zora Network (Ethereum L2)",
+    "status": "active",
+    "estimatedValue": "$300-1500",
+    "description": "Creator-focused NFT protocol with its own L2 network and minting infrastructure.",
+    "requirements": [
+      "Mint NFTs on Zora",
+      "Bridge to Zora Network",
+      "Collect from other creators"
+    ],
+    "tutorial": {
+      "steps": [
+        {
+          "title": "Set Up Zora Account",
+          "description": "Visit Zora and connect wallet. Create your creator profile.",
+          "links": [
+            {
+              "text": "Zora",
+              "url": "https://zora.co/"
+            }
+          ]
+        },
+        {
+          "title": "Bridge to Zora Network",
+          "description": "Use the official bridge to move ETH to Zora L2 for lower fees.",
+          "links": [
+            {
+              "text": "Zora Bridge",
+              "url": "https://bridge.zora.energy/"
+            }
+          ],
+          "estimatedCost": "Bridge fee: ~$5-15"
+        },
+        {
+          "title": "Mint and Collect",
+          "description": "Mint at least 1 NFT and collect 5+ NFTs from other creators. Engage with community.",
+          "tips": "Zora Network has ultra-low gas fees"
+        }
+      ]
+    },
+    "risks": [
+      "New L2 network",
+      "Creator-focused (less trading)",
+      "Airdrop speculation only"
+    ],
+    "lastUpdated": "2026-06-29",
+    "token": "TBA",
+    "difficulty": "easy",
+    "endDate": "2027-12-31",
+    "officialSite": "https://zora.co",
+    "officialTwitter": "https://twitter.com/ourZORA"
+  },
+  {
+    "id": "foundation",
+    "name": "Foundation",
+    "chain": "Ethereum",
+    "status": "watch",
+    "estimatedValue": "$200-1000",
+    "description": "Curated NFT marketplace for artists and collectors with invite-only minting.",
+    "requirements": [
+      "Collect NFTs on Foundation",
+      "Participate in auctions",
+      "Engage with creator community"
+    ],
+    "tutorial": {
+      "steps": [
+        {
+          "title": "Join Foundation",
+          "description": "Connect wallet and create collector profile. Browse curated collections.",
+          "links": [
+            {
+              "text": "Foundation",
+              "url": "https://foundation.app/"
+            }
+          ]
+        },
+        {
+          "title": "Collect Art NFTs",
+          "description": "Purchase at least 3 NFTs from different artists. Primary sales preferred.",
+          "estimatedCost": "NFT prices vary: $100-10,000+"
+        },
+        {
+          "title": "Bid on Auctions",
+          "description": "Participate in 5+ auctions even if you don't win. Bidding activity counts.",
+          "tips": "Early bids show commitment to platform"
+        }
+      ]
+    },
+    "risks": [
+      "No confirmed airdrop plans",
+      "High-end art market",
+      "Invite barriers for creators"
+    ],
+    "lastUpdated": "2026-06-29",
+    "token": "TBA",
+    "difficulty": "hard",
+    "endDate": "TBA",
+    "officialSite": "https://foundation.app",
+    "officialTwitter": "https://twitter.com/withfoundation"
+  },
+  {
+    "id": "nftfi",
+    "name": "NFTfi",
+    "chain": "Ethereum",
+    "status": "active",
+    "estimatedValue": "$400-2000",
+    "description": "NFT-backed lending protocol allowing NFT holders to get liquidity without selling.",
+    "requirements": [
+      "Take or offer NFT-backed loans",
+      "List NFTs as collateral",
+      "Complete loan cycles"
+    ],
+    "tutorial": {
+      "steps": [
+        {
+          "title": "Connect to NFTfi",
+          "description": "Visit NFTfi and connect your wallet with NFT holdings.",
+          "links": [
+            {
+              "text": "NFTfi",
+              "url": "https://www.nftfi.com/"
+            }
+          ]
+        },
+        {
+          "title": "List NFT as Collateral",
+          "description": "Select an NFT from your wallet and list it to receive loan offers.",
+          "tips": "Blue-chip NFTs get better loan terms"
+        },
+        {
+          "title": "Accept Loan or Make Offer",
+          "description": "Either accept a loan offer on your NFT, or make loan offers to other borrowers.",
+          "estimatedCost": "Interest + origination fees"
+        },
+        {
+          "title": "Complete Full Loan Cycle",
+          "description": "Repay loan to reclaim NFT or successfully collect on a loan you funded.",
+          "tips": "Multiple completed cycles = higher eligibility"
+        }
+      ]
+    },
+    "risks": [
+      "NFT liquidation risk",
+      "Interest rate costs",
+      "Smart contract risk"
+    ],
+    "lastUpdated": "2026-06-29",
+    "token": "TBA",
+    "difficulty": "hard",
+    "endDate": "2027-06-30",
+    "officialSite": "https://www.nftfi.com",
+    "officialTwitter": "https://twitter.com/nftfi"
+  },
+  {
+    "id": "arcade",
+    "name": "Arcade",
+    "chain": "Ethereum",
+    "status": "active",
+    "estimatedValue": "$300-1200",
+    "description": "NFT-backed lending with fixed-term, fixed-rate loans and institutional liquidity.",
+    "requirements": [
+      "Borrow or lend using NFT collateral",
+      "Participate in multiple loan cycles",
+      "Provide liquidity to lending pools"
+    ],
+    "tutorial": {
+      "steps": [
+        {
+          "title": "Join Arcade",
+          "description": "Connect wallet to Arcade protocol.",
+          "links": [
+            {
+              "text": "Arcade",
+              "url": "https://www.arcade.xyz/"
+            }
+          ]
+        },
+        {
+          "title": "Borrow Against NFTs",
+          "description": "Use your NFTs as collateral to borrow ETH or stablecoins.",
+          "estimatedCost": "Interest rates: typically 10-30% APR"
+        },
+        {
+          "title": "Lend to Earn Yield",
+          "description": "Provide capital to the lending pool and earn interest from borrowers.",
+          "tips": "Diversify across multiple loans"
+        }
+      ]
+    },
+    "risks": [
+      "Default risk for lenders",
+      "Liquidation for borrowers",
+      "Protocol is newer"
+    ],
+    "lastUpdated": "2026-06-29",
+    "token": "TBA",
+    "difficulty": "hard",
+    "endDate": "2027-09-30",
+    "officialSite": "https://www.arcade.xyz",
+    "officialTwitter": "https://twitter.com/arcade_xyz"
+  },
+  {
+    "id": "sudoswap",
+    "name": "sudoAMM",
+    "chain": "Ethereum",
+    "status": "active",
+    "estimatedValue": "$200-1000",
+    "description": "Decentralized NFT AMM protocol enabling instant liquidity for NFT collections.",
+    "requirements": [
+      "Create liquidity pools",
+      "Swap NFTs via AMM",
+      "Provide NFT + ETH liquidity"
+    ],
+    "tutorial": {
+      "steps": [
+        {
+          "title": "Access sudoAMM",
+          "description": "Visit sudoswap and connect your wallet.",
+          "links": [
+            {
+              "text": "sudoswap",
+              "url": "https://sudoswap.xyz/"
+            }
+          ]
+        },
+        {
+          "title": "Swap NFTs",
+          "description": "Use the AMM to buy or sell NFTs instantly without orderbooks.",
+          "estimatedCost": "Gas + 0.5% protocol fee"
+        },
+        {
+          "title": "Create a Pool",
+          "description": "Deposit NFTs + ETH into a liquidity pool and earn trading fees.",
+          "tips": "Linear bonding curves are safest for beginners"
+        }
+      ]
+    },
+    "risks": [
+      "Impermanent loss",
+      "NFT price volatility",
+      "Lower liquidity than centralized markets"
+    ],
+    "lastUpdated": "2026-06-29",
+    "token": "SUDO",
+    "difficulty": "medium",
+    "endDate": "2027-12-31",
+    "officialSite": "https://sudoswap.xyz",
+    "officialTwitter": "https://twitter.com/sudoswap"
+  },
+  {
+    "id": "nft-perp",
+    "name": "NFTperp",
+    "chain": "Arbitrum",
+    "status": "active",
+    "estimatedValue": "$300-1500",
+    "description": "Perpetual futures trading for NFT collections with up to 10x leverage.",
+    "requirements": [
+      "Trade NFT perpetual contracts",
+      "Maintain open positions",
+      "Participate in testnet if available"
+    ],
+    "tutorial": {
+      "steps": [
+        {
+          "title": "Bridge to Arbitrum",
+          "description": "Move ETH to Arbitrum for lower fees.",
+          "links": [
+            {
+              "text": "Arbitrum Bridge",
+              "url": "https://bridge.arbitrum.io/"
+            }
+          ]
+        },
+        {
+          "title": "Connect to NFTperp",
+          "description": "Visit NFTperp protocol and connect wallet.",
+          "links": [
+            {
+              "text": "NFTperp",
+              "url": "https://www.nftperp.xyz/"
+            }
+          ]
+        },
+        {
+          "title": "Open Perpetual Positions",
+          "description": "Trade long or short on NFT collection floor prices with leverage.",
+          "estimatedCost": "Funding rates + liquidation risk"
+        }
+      ]
+    },
+    "risks": [
+      "Liquidation risk with leverage",
+      "Newer protocol",
+      "NFT oracle dependency"
+    ],
+    "lastUpdated": "2026-06-29",
+    "token": "TBA",
+    "difficulty": "hard",
+    "endDate": "2027-06-30",
+    "officialSite": "https://www.nftperp.xyz",
+    "officialTwitter": "https://twitter.com/nftperp"
+  },
+  {
+    "id": "manifold",
+    "name": "Manifold",
+    "chain": "Ethereum / Multi-chain",
+    "status": "watch",
+    "estimatedValue": "$150-800",
+    "description": "Creator tools for NFT minting, smart contracts, and on-chain royalties.",
+    "requirements": [
+      "Deploy smart contracts via Manifold",
+      "Mint NFTs using Manifold Studio",
+      "Use creator extensions"
+    ],
+    "tutorial": {
+      "steps": [
+        {
+          "title": "Create Manifold Account",
+          "description": "Sign up on Manifold Studio and connect wallet.",
+          "links": [
+            {
+              "text": "Manifold Studio",
+              "url": "https://studio.manifold.xyz/"
+            }
+          ]
+        },
+        {
+          "title": "Deploy Custom Contract",
+          "description": "Create your own ERC-721 or ERC-1155 smart contract.",
+          "estimatedCost": "Gas: ~$50-150"
+        },
+        {
+          "title": "Mint Using Extensions",
+          "description": "Use Manifold extensions for allowlists, burn-to-redeem, or token gating.",
+          "tips": "Extensions demonstrate advanced usage"
+        }
+      ]
+    },
+    "risks": [
+      "Creator-focused (not trader)",
+      "No confirmed token plans",
+      "Technical barrier"
+    ],
+    "lastUpdated": "2026-06-29",
+    "token": "TBA",
+    "difficulty": "hard",
+    "endDate": "TBA",
+    "officialSite": "https://manifold.xyz",
+    "officialTwitter": "https://twitter.com/manifoldxyz"
+  },
+  {
+    "id": "nifty-gateway",
+    "name": "Nifty Gateway",
+    "chain": "Ethereum",
+    "status": "watch",
+    "estimatedValue": "$100-500",
+    "description": "Curated NFT platform owned by Gemini with fiat on-ramp and exclusive drops.",
+    "requirements": [
+      "Create Nifty Gateway account",
+      "Purchase NFTs from drops",
+      "Hold NFTs in platform"
+    ],
+    "tutorial": {
+      "steps": [
+        {
+          "title": "Register on Nifty Gateway",
+          "description": "Create account with email and complete KYC via Gemini.",
+          "links": [
+            {
+              "text": "Nifty Gateway",
+              "url": "https://niftygateway.com/"
+            }
+          ]
+        },
+        {
+          "title": "Participate in Drops",
+          "description": "Join scheduled drops from featured artists. Be ready at drop time.",
+          "tips": "Popular drops sell out in seconds"
+        },
+        {
+          "title": "Hold and Trade",
+          "description": "Keep NFTs in your Nifty wallet and trade on secondary market.",
+          "estimatedCost": "NFT prices + 5% buyer fee"
+        }
+      ]
+    },
+    "risks": [
+      "Centralized platform",
+      "KYC required",
+      "No token announced"
+    ],
+    "lastUpdated": "2026-06-29",
+    "token": "TBA",
+    "difficulty": "easy",
+    "endDate": "TBA",
+    "officialSite": "https://niftygateway.com",
+    "officialTwitter": "https://twitter.com/niftygateway"
+  },
+  {
+    "id": "parallel",
+    "name": "Parallel",
+    "chain": "Ethereum / Base",
+    "status": "active",
+    "estimatedValue": "$200-1000",
+    "description": "NFT-based trading card game with marketplace and competitive play.",
+    "requirements": [
+      "Collect Parallel cards",
+      "Play the game",
+      "Trade on marketplace"
+    ],
+    "tutorial": {
+      "steps": [
+        {
+          "title": "Get Parallel Cards",
+          "description": "Buy starter packs or individual cards from OpenSea or Parallel marketplace.",
+          "links": [
+            {
+              "text": "Parallel",
+              "url": "https://parallel.life/"
+            }
+          ]
+        },
+        {
+          "title": "Play Matches",
+          "description": "Download the game client and play ranked matches to earn rewards.",
+          "tips": "Daily play increases engagement metrics"
+        },
+        {
+          "title": "Participate in Events",
+          "description": "Join tournaments and special events for exclusive card drops.",
+          "estimatedCost": "Starter deck: $50-200"
+        }
+      ]
+    },
+    "risks": [
+      "Game still in development",
+      "Card value volatility",
+      "Competitive meta shifts"
+    ],
+    "lastUpdated": "2026-06-29",
+    "token": "TBA",
+    "difficulty": "medium",
+    "endDate": "2027-12-31",
+    "officialSite": "https://parallel.life",
+    "officialTwitter": "https://twitter.com/ParallelTCG"
+  },
+  {
+    "id": "proof-collective",
+    "name": "Proof / Moonbirds",
+    "chain": "Ethereum",
+    "status": "watch",
+    "estimatedValue": "$500-3000",
+    "description": "Premium NFT collective with Moonbirds, Proof of Conference, and member benefits.",
+    "requirements": [
+      "Hold Moonbirds or Proof Collective pass",
+      "Participate in community",
+      "Attend Proof events"
+    ],
+    "tutorial": {
+      "steps": [
+        {
+          "title": "Acquire Moonbirds NFT",
+          "description": "Purchase a Moonbird from OpenSea secondary market.",
+          "links": [
+            {
+              "text": "Moonbirds OpenSea",
+              "url": "https://opensea.io/collection/proof-moonbirds"
+            }
+          ],
+          "estimatedCost": "Floor price: ~2-5 ETH"
+        },
+        {
+          "title": "Join Proof Discord",
+          "description": "Verify ownership and join the Proof Collective Discord for exclusive content.",
+          "tips": "Active members get priority access"
+        },
+        {
+          "title": "Participate in Drops",
+          "description": "Holders get access to new collections like Mythics and future airdrops.",
+          "tips": "Long-term holding often rewarded"
+        }
+      ]
+    },
+    "risks": [
+      "Very high entry cost",
+      "NFT market volatility",
+      "No guaranteed token"
+    ],
+    "lastUpdated": "2026-06-29",
+    "token": "TBA",
+    "difficulty": "hard",
+    "endDate": "TBA",
+    "officialSite": "https://proof.xyz",
+    "officialTwitter": "https://twitter.com/proof_xyz"
+  },
+  {
+    "id": "zk-nft",
+    "name": "zkNFT",
+    "chain": "zkSync Era",
+    "status": "active",
+    "estimatedValue": "$150-800",
+    "description": "Native NFT marketplace on zkSync Era L2 with low fees and fast transactions.",
+    "requirements": [
+      "Bridge to zkSync Era",
+      "Mint or trade NFTs on zkSync",
+      "Provide marketplace feedback"
+    ],
+    "tutorial": {
+      "steps": [
+        {
+          "title": "Bridge to zkSync Era",
+          "description": "Use official zkSync bridge to move ETH to zkSync Era.",
+          "links": [
+            {
+              "text": "zkSync Bridge",
+              "url": "https://bridge.zksync.io/"
+            }
+          ]
+        },
+        {
+          "title": "Access zkNFT Marketplace",
+          "description": "Visit a zkSync Era NFT marketplace (multiple options available).",
+          "tips": "zkSync has very low gas fees"
+        },
+        {
+          "title": "Trade NFTs",
+          "description": "Complete multiple NFT transactions to demonstrate usage of zkSync NFT ecosystem.",
+          "estimatedCost": "Gas: <$1 per transaction"
+        }
+      ]
+    },
+    "risks": [
+      "Newer ecosystem",
+      "Lower liquidity",
+      "zkSync token already distributed"
+    ],
+    "lastUpdated": "2026-06-29",
+    "token": "TBA",
+    "difficulty": "easy",
+    "endDate": "2027-09-30",
+    "officialSite": "https://zksync.io",
+    "officialTwitter": "https://twitter.com/zksync"
+  },
+  {
+    "id": "mint-fun",
+    "name": "mint.fun",
+    "chain": "Ethereum / Base / Zora",
+    "status": "active",
+    "estimatedValue": "$200-1000",
+    "description": "Multi-chain NFT minting aggregator with gas optimization and trending mints.",
+    "requirements": [
+      "Mint NFTs via mint.fun",
+      "Use multiple chains",
+      "Early mint participation"
+    ],
+    "tutorial": {
+      "steps": [
+        {
+          "title": "Visit mint.fun",
+          "description": "Connect wallet to mint.fun platform.",
+          "links": [
+            {
+              "text": "mint.fun",
+              "url": "https://mint.fun/"
+            }
+          ]
+        },
+        {
+          "title": "Mint Trending Collections",
+          "description": "Browse trending mints and participate in at least 5 different mints.",
+          "estimatedCost": "Mint prices vary: $0-50 each"
+        },
+        {
+          "title": "Use Multiple Chains",
+          "description": "Mint on at least 2 chains: Ethereum, Base, or Zora Network.",
+          "tips": "Base and Zora have <$0.01 gas fees"
+        }
+      ]
+    },
+    "risks": [
+      "Mint aggregator (not marketplace)",
+      "Many mints have no value",
+      "Speculation play"
+    ],
+    "lastUpdated": "2026-06-29",
+    "token": "TBA",
+    "difficulty": "easy",
+    "endDate": "2027-12-31",
+    "officialSite": "https://mint.fun",
+    "officialTwitter": "https://twitter.com/mintdotfun"
+  },
+  {
+    "id": "decent-xyz",
+    "name": "Decent",
+    "chain": "Multi-chain",
+    "status": "active",
+    "estimatedValue": "$150-700",
+    "description": "Cross-chain NFT infrastructure enabling seamless minting and transfers across chains.",
+    "requirements": [
+      "Use Decent for cross-chain NFT operations",
+      "Mint NFTs cross-chain",
+      "Interact with integrated platforms"
+    ],
+    "tutorial": {
+      "steps": [
+        {
+          "title": "Access Decent Protocol",
+          "description": "Look for projects using Decent infrastructure (check their partnerships).",
+          "links": [
+            {
+              "text": "Decent",
+              "url": "https://decent.xyz/"
+            }
+          ]
+        },
+        {
+          "title": "Cross-Chain Minting",
+          "description": "When minting NFTs, choose cross-chain option to mint on multiple chains simultaneously.",
+          "tips": "Decent powers background infrastructure"
+        },
+        {
+          "title": "Use Partner Platforms",
+          "description": "Engage with platforms integrated with Decent for maximum eligibility.",
+          "estimatedCost": "Varies by platform"
+        }
+      ]
+    },
+    "risks": [
+      "Infrastructure play (not user-facing)",
+      "Dependent on partners",
+      "Complex tracking"
+    ],
+    "lastUpdated": "2026-06-29",
+    "token": "TBA",
+    "difficulty": "medium",
+    "endDate": "2027-06-30",
+    "officialSite": "https://decent.xyz",
+    "officialTwitter": "https://twitter.com/decentxyz"
+  },
+  {
+    "id": "highlight-xyz",
+    "name": "Highlight",
+    "chain": "Ethereum / Base / Zora",
+    "status": "active",
+    "estimatedValue": "$100-600",
+    "description": "No-code NFT minting platform for creators with customizable mint pages.",
+    "requirements": [
+      "Mint NFTs on Highlight",
+      "Create collections (if creator)",
+      "Collect from various drops"
+    ],
+    "tutorial": {
+      "steps": [
+        {
+          "title": "Join Highlight",
+          "description": "Connect wallet to Highlight platform.",
+          "links": [
+            {
+              "text": "Highlight",
+              "url": "https://highlight.xyz/"
+            }
+          ]
+        },
+        {
+          "title": "Mint from Drops",
+          "description": "Participate in 10+ different mints from various creators on Highlight.",
+          "estimatedCost": "Most mints: free to $10"
+        },
+        {
+          "title": "Deploy Your Own (Optional)",
+          "description": "Create a free collection to show platform engagement.",
+          "tips": "Creator activity may count more"
+        }
+      ]
+    },
+    "risks": [
+      "Creator tool (less trader focus)",
+      "Crowded mint space",
+      "Low-cost mints = low value"
+    ],
+    "lastUpdated": "2026-06-29",
+    "token": "TBA",
+    "difficulty": "easy",
+    "endDate": "2027-09-30",
+    "officialSite": "https://highlight.xyz",
+    "officialTwitter": "https://twitter.com/highlightxyz"
   }
 ]
