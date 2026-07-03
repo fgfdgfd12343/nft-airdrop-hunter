@@ -7,23 +7,32 @@
 **项目**: NFT Airdrop Hunter - NFT空投聚合网站
 **技术栈**: Next.js 14, React 18, Tailwind CSS
 **部署**: 已上线 https://nft-airdrop-hunter.vercel.app/
-**运行状态**: 功能完整，4个NFT项目，全套页面
+**运行状态**: 功能完整，23个NFT项目，双栏布局（空投+即将上线项目）
 
 ### 核心功能模块
-- ✅ **首页** (app/page.js) - 空投列表 + 导航（首页/日历/教程/工具/交易所）
+- ✅ **首页** (app/page.js) - 双栏布局：左侧23个NFT空投，右侧10个即将上线优质项目（股票IPO+币圈）
 - ✅ **详情页** (app/airdrop/[id]/page.js) - 分步教程、官方链接、风险提示、返佣区块
 - ✅ **日历** (app/calendar/page.js) - 按截止日期排序
 - ✅ **工具** (app/tools/page.js) - Gas 费计算器（ROI 计算器占位）
 - ✅ **交易所测评** (app/exchanges/page.js) - 对比 + 返佣
 - ✅ **博客** (app/blog/) - 5 篇 SEO 教程
 - ✅ **合规页** - about/contact/privacy（AdSense 必需）
-- ✅ **SEO** - sitemap.js + robots.js + OG/Twitter meta
-- ✅ **数据库** (data/airdrops.json) - 空投数据源
+- ✅ **SEO** - sitemap.js + robots.js + OG/Twitter meta + Google Search Console 验证
+- ✅ **数据库** (data/airdrops.json) - 23个NFT空投项目
+- ✅ **即将上线** (data/upcoming-projects.json) - 10个优质项目（Circle/Kraken IPO + Monad/Polymarket等）
 - ✅ **变现** - 返佣链接已配置（config/referral.js），AdSense 代码占位（layout.js）
 
 ---
 
 ## 🔄 最近改动记录
+### [2026-07-03] Claude（Google Search Console 配置完成）
+- **✅ NFT 站接入 Google Search Console**:
+  - 在 layout.js 的 `<head>` 添加 google-site-verification meta 占位标签并推送部署
+  - 用户在 Search Console 用「网址前缀」方式添加资源 https://nft-airdrop-hunter.vercel.app
+  - Google 通过 HTML 文件方式自动完成所有权验证（Vercel 环境自动检测）
+- **待办**: 用户在 Search Console「站点地图」提交 sitemap.xml，等待 Google 抓取（24-48h）
+- **原因**: 让 NFT 站进入 Google 索引，获取自然搜索流量（变现前提）
+
 ### [2026-06-29] Claude（NFT 空投网站首次部署上线）
 - **✅ 完成 NFT-Airdrop-Hunter 部署**: 
   - GitHub: https://github.com/fgfdgfd12343/nft-airdrop-hunter
