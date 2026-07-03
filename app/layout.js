@@ -32,6 +32,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
+        <meta name="google-site-verification" content="PLACEHOLDER_REPLACE_AFTER_GSC_REGISTRATION" />
         {/* Google Search Console - 待 NFT 站申请后填入新验证码 */}
         {/* Google AdSense - 待审核通过后取消注释并填入你的发布商ID */}
         {/* <script
