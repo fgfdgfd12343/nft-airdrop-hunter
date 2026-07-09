@@ -40,7 +40,7 @@
       "Dependent on partners",
       "Complex tracking"
     ],
-    "lastUpdated": "2026-07-08",
+    "lastUpdated": "2026-07-09",
     "token": "TBA",
     "difficulty": "medium",
     "endDate": "2027-06-30",
@@ -93,7 +93,7 @@
       "Interest rate costs",
       "Smart contract risk"
     ],
-    "lastUpdated": "2026-07-08",
+    "lastUpdated": "2026-07-09",
     "token": "TBA",
     "difficulty": "hard",
     "endDate": "2027-06-30",
@@ -146,7 +146,7 @@
       "Newer protocol",
       "NFT oracle dependency"
     ],
-    "lastUpdated": "2026-07-08",
+    "lastUpdated": "2026-07-09",
     "token": "TBA",
     "difficulty": "hard",
     "endDate": "2027-06-30",
@@ -194,7 +194,7 @@
       "NFT price volatility",
       "Impermanent loss in AMM"
     ],
-    "lastUpdated": "2026-07-08",
+    "lastUpdated": "2026-07-09",
     "token": "TNSR",
     "difficulty": "easy",
     "endDate": "2027-06-30",
@@ -242,7 +242,7 @@
       "Liquidation for borrowers",
       "Protocol is newer"
     ],
-    "lastUpdated": "2026-07-08",
+    "lastUpdated": "2026-07-09",
     "token": "TBA",
     "difficulty": "hard",
     "endDate": "2027-09-30",
@@ -290,7 +290,7 @@
       "Multi-chain complexity",
       "Unconfirmed airdrop"
     ],
-    "lastUpdated": "2026-07-08",
+    "lastUpdated": "2026-07-09",
     "token": "TBA",
     "difficulty": "easy",
     "endDate": "2027-09-30",
@@ -338,7 +338,7 @@
       "Crowded mint space",
       "Low-cost mints = low value"
     ],
-    "lastUpdated": "2026-07-08",
+    "lastUpdated": "2026-07-09",
     "token": "TBA",
     "difficulty": "easy",
     "endDate": "2027-09-30",
@@ -386,7 +386,7 @@
       "Lower liquidity",
       "zkSync token already distributed"
     ],
-    "lastUpdated": "2026-07-08",
+    "lastUpdated": "2026-07-09",
     "token": "TBA",
     "difficulty": "easy",
     "endDate": "2027-09-30",
@@ -444,7 +444,7 @@
       "High competition among traders",
       "Gas fees on Ethereum"
     ],
-    "lastUpdated": "2026-07-08",
+    "lastUpdated": "2026-07-09",
     "token": "BLUR",
     "difficulty": "medium",
     "endDate": "2027-12-31",
@@ -492,7 +492,7 @@
       "Many mints have no value",
       "Speculation play"
     ],
-    "lastUpdated": "2026-07-08",
+    "lastUpdated": "2026-07-09",
     "token": "TBA",
     "difficulty": "easy",
     "endDate": "2027-12-31",
@@ -540,7 +540,7 @@
       "High trading volume requirement",
       "Platform fee risk"
     ],
-    "lastUpdated": "2026-07-08",
+    "lastUpdated": "2026-07-09",
     "token": "TBA",
     "difficulty": "medium",
     "endDate": "2027-12-31",
@@ -588,7 +588,7 @@
       "Card value volatility",
       "Competitive meta shifts"
     ],
-    "lastUpdated": "2026-07-08",
+    "lastUpdated": "2026-07-09",
     "token": "TBA",
     "difficulty": "medium",
     "endDate": "2027-12-31",
@@ -636,7 +636,7 @@
       "NFT price volatility",
       "Lower liquidity than centralized markets"
     ],
-    "lastUpdated": "2026-07-08",
+    "lastUpdated": "2026-07-09",
     "token": "SUDO",
     "difficulty": "medium",
     "endDate": "2027-12-31",
@@ -690,7 +690,7 @@
       "Creator-focused (less trading)",
       "Airdrop speculation only"
     ],
-    "lastUpdated": "2026-07-08",
+    "lastUpdated": "2026-07-09",
     "token": "TBA",
     "difficulty": "easy",
     "endDate": "2027-12-31",
@@ -738,7 +738,7 @@
     ],
     "officialSite": "https://blur.io",
     "officialTwitter": "https://twitter.com/blur_io",
-    "lastUpdated": "2026-07-08"
+    "lastUpdated": "2026-07-09"
   },
   {
     "id": "magic-eden-diamond",
@@ -781,7 +781,7 @@
     ],
     "officialSite": "https://magiceden.io",
     "officialTwitter": "https://twitter.com/MagicEden",
-    "lastUpdated": "2026-07-08"
+    "lastUpdated": "2026-07-09"
   },
   {
     "id": "pudgy-penguins",
@@ -824,7 +824,7 @@
     ],
     "officialSite": "https://www.pudgypenguins.com",
     "officialTwitter": "https://twitter.com/pudgypenguins",
-    "lastUpdated": "2026-07-08"
+    "lastUpdated": "2026-07-09"
   },
   {
     "id": "avalonfinance-xyz",
@@ -882,9 +882,9 @@
       "url": "https://app.avalonfinance.xyz/earn/",
       "sourcePage": "https://www.avalonfinance.xyz",
       "score": 2,
-      "detectedAt": "2026-07-08"
+      "detectedAt": "2026-07-09"
     },
-    "lastUpdated": "2026-07-08"
+    "lastUpdated": "2026-07-09"
   },
   {
     "id": "linea",
@@ -942,9 +942,9 @@
       "url": "https://linea.build/blog/yield-boost-is-activated",
       "sourcePage": "https://linea.build/blog",
       "score": 2,
-      "detectedAt": "2026-07-08"
+      "detectedAt": "2026-07-09"
     },
-    "lastUpdated": "2026-07-08"
+    "lastUpdated": "2026-07-09"
   },
   {
     "id": "liquidcollective-io",
@@ -1002,9 +1002,9 @@
       "url": "https://www.stakingrewards.com/asset/liquid-staked-eth/about",
       "sourcePage": "https://liquidcollective.io",
       "score": 2,
-      "detectedAt": "2026-07-08"
+      "detectedAt": "2026-07-09"
     },
-    "lastUpdated": "2026-07-08"
+    "lastUpdated": "2026-07-09"
   },
   {
     "id": "foundation",
@@ -1047,7 +1047,7 @@
       "High-end art market",
       "Invite barriers for creators"
     ],
-    "lastUpdated": "2026-07-08",
+    "lastUpdated": "2026-07-09",
     "token": "TBA",
     "difficulty": "hard",
     "endDate": "TBA",
@@ -1095,7 +1095,7 @@
       "Declining platform volume",
       "High gas fees"
     ],
-    "lastUpdated": "2026-07-08",
+    "lastUpdated": "2026-07-09",
     "token": "LOOKS",
     "difficulty": "easy",
     "endDate": "TBA",
@@ -1143,7 +1143,7 @@
       "No confirmed token plans",
       "Technical barrier"
     ],
-    "lastUpdated": "2026-07-08",
+    "lastUpdated": "2026-07-09",
     "token": "TBA",
     "difficulty": "hard",
     "endDate": "TBA",
@@ -1191,7 +1191,7 @@
       "KYC required",
       "No token announced"
     ],
-    "lastUpdated": "2026-07-08",
+    "lastUpdated": "2026-07-09",
     "token": "TBA",
     "difficulty": "easy",
     "endDate": "TBA",
@@ -1240,7 +1240,7 @@
       "NFT market volatility",
       "No guaranteed token"
     ],
-    "lastUpdated": "2026-07-08",
+    "lastUpdated": "2026-07-09",
     "token": "TBA",
     "difficulty": "hard",
     "endDate": "TBA",
@@ -1288,7 +1288,7 @@
       "Lower liquidity than OpenSea",
       "Uncertain future airdrops"
     ],
-    "lastUpdated": "2026-07-08",
+    "lastUpdated": "2026-07-09",
     "token": "X2Y2",
     "difficulty": "easy",
     "endDate": "TBA",
